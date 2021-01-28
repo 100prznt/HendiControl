@@ -16,10 +16,10 @@ Der auf der Rückseite Verbaute IC trägt die Bezeichnung __SM1628__. Nach einer
 
 ### PCB Poti
 
-![IMG_0697.jpg](photos/IMG_0694.jpg)
+![IMG_0697.jpg](photos/IMG_0697.jpg)
 Vorderseite
 
-![IMG_0699.jpg](photos/IMG_0694.jpg)
+![IMG_0699.jpg](photos/IMG_0699.jpg)
 Rückseite
 
 Verbaut ist ein 500K Poti

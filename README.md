@@ -6,7 +6,7 @@
 ### PCB Display
 
 ![IMG_0695.jpg](photos/IMG_0695.jpg)
-Vorderseite
+Vorderseite *BETTER BT-350Q_DIS(V05) SH13383 15.10.22*
 
 ![IMG_0694.jpg](photos/IMG_0694.jpg)
 Rückseite
@@ -17,10 +17,10 @@ Der auf der Rückseite verbaute IC trägt die Bezeichnung __SM1628__. Nach einer
 ### PCB Poti
 
 ![IMG_0697.jpg](photos/IMG_0697.jpg)
-Vorderseite
+Vorderseite *HT-1P75*
 
 ![IMG_0699.jpg](photos/IMG_0699.jpg)
-Rückseite
+Rückseite *BETTER*
 
 Verbaut ist ein 500K Poti
 

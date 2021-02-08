@@ -28,6 +28,11 @@ Verbaut ist ein 500K Poti
 
 * [Schaltplan Display u. Poti](reverse_engineering/Schematic_UI.pdf)
 
+| U [V] | P [W] |
+|-------|-------|
+| 0     | 3500  |
+| 5     | 500   |
+
 ### Nützliche Links
 
 * [craftbeerpi Wiki - Hendi-Induction-cooker-model-3500-M--Setup](https://github.com/Manuel83/craftbeerpi/wiki/Hendi-Induction-cooker-model-3500-M--Setup)

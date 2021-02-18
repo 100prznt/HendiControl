@@ -1,5 +1,9 @@
 # HendiControl
 
+## Konzept
+
+ ![HendiControl Schema Konzept 1](HendiControl/docu/HendiControl_Schema.svg)
+
 
 ## Reverse engineering
 

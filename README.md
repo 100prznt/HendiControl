@@ -2,7 +2,7 @@
 
 ## Konzept
 
- ![HendiControl Schema Konzept 1](HendiControl/docu/HendiControl_Schema.svg)
+ ![HendiControl Schema Konzept 1](docu/HendiControl_Schema.svg)
 
 
 ## Reverse engineering

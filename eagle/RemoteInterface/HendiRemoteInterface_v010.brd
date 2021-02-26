@@ -2132,10 +2132,9 @@ Source: http://www.osram.convergy.de/ ... lb_r99a.pdf</description>
 <wire x1="75.565" y1="34.61" x2="77.785" y2="34.61" width="0.3048" layer="1"/>
 <wire x1="79.005" y1="33.39" x2="81.03" y2="33.39" width="0.3048" layer="1"/>
 <wire x1="77.785" y1="34.61" x2="79.005" y2="33.39" width="0.3048" layer="1"/>
-<wire x1="73.5" y1="21.43" x2="73.5" y2="22.7" width="0.3048" layer="1"/>
 <wire x1="73.5" y1="22.7" x2="73.34" y2="22.86" width="0.3048" layer="1"/>
-<wire x1="73.66" y1="17.145" x2="73.66" y2="21.27" width="0.4064" layer="1"/>
-<wire x1="73.66" y1="21.27" x2="73.5" y2="21.43" width="0.4064" layer="1"/>
+<wire x1="73.66" y1="17.145" x2="73.66" y2="22.54" width="0.4064" layer="1"/>
+<wire x1="73.66" y1="22.54" x2="73.5" y2="22.7" width="0.4064" layer="1"/>
 <wire x1="75.565" y1="34.61" x2="73.34" y2="34.61" width="0.4064" layer="1"/>
 <wire x1="73.34" y1="35.88" x2="73.34" y2="34.61" width="0.4064" layer="1"/>
 <wire x1="73.34" y1="22.86" x2="73.34" y2="34.61" width="0.4064" layer="1"/>
@@ -2532,11 +2531,8 @@ Source: http://www.osram.convergy.de/ ... lb_r99a.pdf</description>
 <signal name="N$9">
 <contactref element="R5" pad="1"/>
 <contactref element="EXT2" pad="A"/>
-<wire x1="42.225" y1="22.86" x2="37.78" y2="22.86" width="0.3048" layer="1"/>
-<wire x1="42.225" y1="22.86" x2="43.18" y2="21.905" width="0.3048" layer="1"/>
-<wire x1="44.23" y1="16.095" x2="45.085" y2="16.095" width="0.3048" layer="1"/>
-<wire x1="43.18" y1="21.905" x2="43.18" y2="17.145" width="0.3048" layer="1"/>
-<wire x1="43.18" y1="17.145" x2="44.23" y2="16.095" width="0.3048" layer="1"/>
+<wire x1="44.545" y1="16.095" x2="45.085" y2="16.095" width="0.3048" layer="1"/>
+<wire x1="37.78" y1="22.86" x2="44.545" y2="16.095" width="0.3048" layer="1"/>
 </signal>
 <signal name="N$10">
 <contactref element="EXT1" pad="A"/>

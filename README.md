@@ -2,8 +2,13 @@
 
 ## Konzept
 
- ![HendiControl Schema Konzept 1](docu/HendiControl_Schema.svg)
+![HendiControl Schema Konzept 1](docu/HendiControl_Schema.svg)
 
+
+## Remote Controller
+
+![HendiRemoteInterface_v010](docu/PCB_top_HendiRemoteInterface_v010.png)
+PCB vom ersten Prototypen auf Basis WeMos D1 mini
 
 ## Reverse engineering
 
